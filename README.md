@@ -10,7 +10,6 @@
 - Creating **data science solutions** to extract insights from complex datasets
 - **Avid reader** constantly learning through books and code..
 - Aspiring **Medical Informatician** bridging technology and medicine.
-- Currently learning **German** and seeking international collaboration opportunities.
 - Developing **deep learning models** for medical image classification.
 
 ## 🛠️ Tech I use
