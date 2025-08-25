@@ -9,7 +9,7 @@
 - **Computer Science student** passionate about **medical informatics** based in Lima, Peru.
 - Creating **data science solutions** to extract insights from complex datasets
 - **Avid reader** constantly learning through books and code..
-- Aspiring **Medical Informatician** bridging technology and medicine.
+- Aspiring and looking for oportunities in **Medical Informatician** 
 - Developing **deep learning models** for medical image classification.
 
 ## 🛠️ Tech I use
@@ -50,9 +50,6 @@
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen&style=flat)
-
-![Mireya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)
 
 ## 🎯 Current Focus
 
