@@ -1,8 +1,8 @@
 # Hallo ☺️, I'm Nicole Sihuincha
 
 [![GitHub](https://img.shields.io/badge/GitHub-mireyanicoleschermuly-181717?style=flat&logo=github)](https://github.com/sowiexsker894)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mireya%20Nicole-0077B5?style=flat&logo=linkedin)](linkedin.com/in/nicoleschermacha/)
-[![Email](https://img.shields.io/badge/Email-sihuinchamireya@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sihuinchamireya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mireya%20Nicole-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicoleschermacha)
+[![Email](https://img.shields.io/badge/Email-sihuinchamireya@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](sihuinchamireya@gmail.com)
 
 ## About me
 
