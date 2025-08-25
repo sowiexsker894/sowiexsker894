@@ -1,10 +1,10 @@
-# Hey 👋, I'm Mireya Nicole Sihuincha
+# Hallo ☺️, I'm Nicole Sihuincha
 
 [![GitHub](https://img.shields.io/badge/GitHub-mireyanicoleschermuly-181717?style=flat&logo=github)](https://github.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mireya%20Nicole-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-tu.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
 
-## 👋 About me
+## About me
 
 - **Computer Science student** passionate about **medical informatics** based in Lima, Peru.
 - Creating **data science solutions** to extract insights from complex datasets
@@ -67,7 +67,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen&style=flat)
 
-## 🎯 Current Focus
+## Current Focus
 
 - Developing **deep learning algorithms** for data classification and analysis.
 - 📖 Reading about **medical informatics** and **healthcare AI**
@@ -76,7 +76,7 @@
 
 ## 💝 Support My Work
 
-Si te gusta mi trabajo y quieres apoyarme en mi desarrollo profesional, considera hacer una donación:
+If you want to support my proffesional development: 
 
 <div align="center">
 
@@ -85,12 +85,12 @@ Si te gusta mi trabajo y quieres apoyarme en mi desarrollo profesional, consider
 
 </div>
 
-**¡Cada donación me ayuda a:**
-- 📚 Comprar libros de tecnología y medicina
-- 💻 Mejorar mi equipo de desarrollo
-- 🌍 Participar en conferencias y eventos
-- 🎓 Continuar mi educación en informática médica
-
+**Every donation helps me to:**
+- 💻 Improve my development equipment
+- 🌍 Participate in conferences and events
+- 🎓 Continue my education in medical informatics
+- 📚 Buy books on technology and medicine
+    
 ## 📫 Let's Connect!
 
 I'm always open to discussing computer science, data science projects, or book recommendations! Feel free to reach out.
