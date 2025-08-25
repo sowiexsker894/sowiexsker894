@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hey 👋, I'm Mireya Nicole Sihuincha
 
 [![GitHub](https://img.shields.io/badge/GitHub-mireyanicoleschermuly-181717?style=flat&logo=github)](https://github.com/tu-usuario)
@@ -8,11 +7,11 @@
 ## 👋 About me
 
 • **Computer Science student** passionate about **medical informatics** based in Lima, Peru.
-• 📚 **Avid reader** constantly learning through books and code.
-• 🩺 Building **AI solutions for healthcare** and medical technology innovation.
-• 🎯 Aspiring **Medical Informatician** bridging technology and medicine.
-• 🌍 Currently learning **German** and seeking international collaboration opportunities.
-• 🔬 Developing **deep learning models** for medical image classification.
+• Creating **data science solutions** to extract insights from complex datasets
+• **Avid reader** constantly learning through books and code..
+• Aspiring **Medical Informatician** bridging technology and medicine.
+• Currently learning **German** and seeking international collaboration opportunities.
+• Developing **deep learning models** for medical image classification.
 
 ## 🛠️ Tech I use
 
@@ -58,14 +57,14 @@
 
 ## 🎯 Current Focus
 
-- 🔬 Working on **chest X-ray classification** using deep learning
+- Developing **deep learning algorithms** for data classification and analysis.
 - 📖 Reading about **medical informatics** and **healthcare AI**
 - 🇩🇪 Learning **German** at Goethe Institute
 - 🌐 Preparing for **international exchange** programs
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing medical informatics, AI in healthcare, or book recommendations! Feel free to reach out.
+I'm always open to discussing computer science, data science projects, or book recommendations! Feel free to reach out.
 
 ---
-⭐️ From [tu-usuario](https://github.com/tu-usuario)
+⭐️ From [sowiexsker894](https://github.com/sowiexsker894)
