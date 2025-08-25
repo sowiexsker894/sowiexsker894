@@ -91,9 +91,9 @@ If you want to support my proffesional development:
 - 🎓 Continue my education in medical informatics
 - 📚 Buy books on technology and medicine
     
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to discussing computer science, data science projects, or book recommendations! Feel free to reach out.
 
 ---
-⭐️ From [sowiexsker894](https://github.com/sowiexsker894)
+From [sowiexsker894](https://github.com/sowiexsker894)
